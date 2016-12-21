@@ -2,6 +2,7 @@
 tiff.js is a port of the LibTIFF by compiling the LibTIFF C code with Emscripten.
 
 ## [Demo](http://rodenluo.github.io/tiff.js/)
+- [views MI-seq_test](http://rodenluo.github.io/tiff.js/MI-seq_test.html)
 - [views TIFF files](http://rodenluo.github.io/tiff.js/basic.html)
 - [views a TIFF file using a web worker](http://rodenluo.github.io/tiff.js/worker.html)
 - [views a multipage TIFF file](http://rodenluo.github.io/tiff.js/multipage.html)
