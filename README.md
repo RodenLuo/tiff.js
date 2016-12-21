@@ -1,10 +1,10 @@
 # tiff.js
 tiff.js is a port of the LibTIFF by compiling the LibTIFF C code with Emscripten.
 
-## [Demo](http://seikichi.github.io/tiff.js/)
-- [views TIFF files](http://seikichi.github.io/tiff.js/basic.html)
-- [views a TIFF file using a web worker](http://seikichi.github.io/tiff.js/worker.html)
-- [views a multipage TIFF file](http://seikichi.github.io/tiff.js/multipage.html)
+## [Demo](http://rodenluo.github.io/tiff.js/)
+- [views TIFF files](http://rodenluo.github.io/tiff.js/basic.html)
+- [views a TIFF file using a web worker](http://rodenluo.github.io/tiff.js/worker.html)
+- [views a multipage TIFF file](http://rodenluo.github.io/tiff.js/multipage.html)
 
 ## Usage
 Use tiff.min.js:
