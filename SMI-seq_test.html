@@ -21,8 +21,8 @@ $(function () {
       var buffer = xhr.response;
       var tiff = new Tiff({buffer: buffer});
       var canvas = tiff.toCanvas();
-      var width = tiff.width();
-      var height = tiff.height();
+      var width = tiff.width() * 5;
+      var height = tiff.height() * 5;
       if (canvas) {
         var $elem = $('<div><div><a href="' + filename + '">' +
                       filename +
